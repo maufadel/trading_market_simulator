@@ -12,4 +12,4 @@ TMS is open-source software (MIT License), so you can utilize it in any project 
 ![TMS](https://github.com/maufadel/trading_market_simulator/blob/master/resources/tms.gif)
 
 ## Getting started
-The best way to start with TMS is to follow the [TMS_Examples_tutorial](https://github.com/maufadel/trading_market_simulator/blob/master/TMS_Examples_tutorial.ipynbz).
+The best way to start with TMS is to follow the [TMS_Examples_tutorial](https://github.com/maufadel/trading_market_simulator/blob/master/TMS_Examples_tutorial.ipynb).
