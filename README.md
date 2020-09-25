@@ -10,3 +10,6 @@ The data used for the simulation has a granularity of 1 minute. With TMS you can
 TMS is open-source software (MIT License), so you can utilize it in any project you like and modify it for your needs. Note that TMS is not associated to Alpaca in any way.
 
 ![TMS](https://github.com/maufadel/trading_market_simulator/blob/master/resources/tms.gif)
+
+## Getting started
+The best way to start with TMS is to follow the [TMS_Examples_tutorial](https://github.com/maufadel/trading_market_simulator/blob/master/TMS_Examples_tutorial.ipynbz).
